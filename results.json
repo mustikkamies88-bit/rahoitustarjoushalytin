@@ -1,4 +1,42 @@
 {
-  "updated_at": "ei vielä ajettu",
-  "alerts": []
+  "updated_at": "07.08.2026 08:37",
+  "alerts": [
+    {
+      "dealer": "J. Rinta-Jouppi",
+      "title": "Vaihtoautojen rahoituskampanja",
+      "rate": 4.99,
+      "url": "https://www.rintajouppi.fi/korkotarjous/",
+      "reason": "Korko alle 6 %, useita 7-paikkaisia automaatteja ja osa alle budjetin.",
+      "cars": [
+        {
+          "model": "Kia Sorento 2015",
+          "price": 14900,
+          "km": 238000,
+          "fuel": "Diesel",
+          "gearbox": "Automaatti",
+          "seats": 7,
+          "service_book": true
+        },
+        {
+          "model": "Seat Alhambra",
+          "price": 12900,
+          "km": 245000,
+          "fuel": "Diesel",
+          "gearbox": "Automaatti",
+          "seats": 7,
+          "service_book": true
+        },
+        {
+          "model": "VW Sharan",
+          "price": 13900,
+          "km": 249000,
+          "fuel": "Diesel",
+          "gearbox": "Automaatti",
+          "seats": 7,
+          "service_book": true
+        }
+      ],
+      "updated": "07.08.2026 08:37"
+    }
+  ]
 }
